@@ -1,0 +1,6 @@
+.spinnerContiner {
+    @apply absolute text-center h-full bg-slate-300 opacity-60 w-full flex items-center justify-center;
+}
+.spinner {
+    @apply inline-block h-8 w-8 animate-spin border-transparent motion-reduce:animate-[spin_1.5s_linear_infinite];
+}
