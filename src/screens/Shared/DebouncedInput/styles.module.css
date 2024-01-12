@@ -1,0 +1,6 @@
+.inputWrapper {
+    @apply flex h-8 p-2 bg-transparent text-white outline-none border-solid border-white w-52 border rounded-md;
+}
+.inputSearch {
+    @apply bg-transparent placeholder-white outline-none pl-2;
+}
