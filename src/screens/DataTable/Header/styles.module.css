@@ -1,0 +1,18 @@
+.headerWrapper {
+    @apply flex justify-between items-center p-4 h-16 text-white;
+}
+
+.headerLeftSideContiner {
+    @apply flex justify-between items-center h-full text-xs gap-3;
+}
+
+.select {
+    @apply text-white h-full rounded-lg text-xs font-medium text-center;
+}
+.btnWrapper {
+    @apply rounded-md px-4 py-2 text-white font-bold text-xs;
+}
+
+.btnText {
+    @apply flex justify-center items-center gap-1;
+}
