@@ -1,0 +1,14 @@
+.continer {
+    @apply max-w-6xl mx-auto text-white;
+}
+
+.thWrapper {
+    @apply capitalize px-3.5 py-2;
+}
+.thContiner {
+    @apply flex items-center gap-2 cursor-pointer justify-between;
+}
+
+.paginationContiner {
+    @apply flex items-center justify-center p-4 gap-2;
+}
