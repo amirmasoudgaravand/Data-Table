@@ -1,0 +1,9 @@
+.paginationWrapper {
+    @apply flex items-center justify-between px-4 py-3;
+}
+.paginationContainer {
+    @apply inline-flex gap-4 rounded-md shadow-sm;
+}
+.paginationBtn {
+    @apply h-8 w-8 z-10 text-xs font-medium text-white rounded-md items-center inline-flex justify-center cursor-pointer;
+}
